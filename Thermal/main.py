@@ -225,8 +225,6 @@ for t in range(340, 400, 1):
 
 
 
-with open("test.text", "wb") as fp:
-    pickle.dump(a, fp)
 
 
 
